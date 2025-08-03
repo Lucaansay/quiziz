@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>repostas nivel medio</title>
+
+</head>
+
+<style>
+    body{
+    background-color:rgb(16, 240, 210);
+
+}
+
+.Respostas{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:blueviolet;
+   }
+    .Numeros{ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        color: blueviolet;
+    }
+
+  </style>
+
+<body>
+
+ <center><h1 class="Respostas">Respostas do nivel medio</h1></center>
+  <center><h1 class="Numeros"> 1-Roubo de identidade online é quando alguém usa dados pessoais de outra pessoa, como CPF, senhas ou informações bancárias, sem autorização, para se passar por ela e cometer fraudes.
+</h1></center>
+ <center><h1 class="Numeros">2-Hackers invadem contas em redes sociais por meio de senhas fracas, phishing, malware ou vazamento de dados.</h1></center>
+  <center><h1 class="Numeros">3-Os sinais de um golpe de phishing incluem mensagens com erros de escrita, links suspeitos, pedidos urgentes de dados pessoais e remetentes desconhecidos ou falsificados.
+</h1></center>
+
+
+</body>
+</html>
