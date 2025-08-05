@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>repostas nivel dificil</title>
+
+</head>
+
+<style>
+    body{
+    background-color:rgb(16, 240, 210);
+
+}
+
+.Respostas{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:blueviolet;
+   }
+    .Numeros{ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        color: blueviolet;
+    }
+
+  </style>
+
+<body>
+
+ <center><h1 class="Respostas">Respostas do nivel dificil!!</h1></center>
+  <center><h1 class="Numeros"> 1-É quando o criminoso engana a vítima para conseguir informações, como senhas, usando truques psicológicos.</h1></center>
+ <center><h1 class="Numeros">2Porque a VPN esconde seu IP real e criptografa os dados, dificultando que hackers interceptem suas informações.</h1></center>
+  <center><h1 class="Numeros">3-Crime cibernético envolve o uso da internet como meio ou alvo. Já crime informático é mais amplo e inclui qualquer crime cometido com tecnologia, mesmo sem internet.</h1></center>
+
+
+
+</body>
+</html>
