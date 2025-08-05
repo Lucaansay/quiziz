@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nivel medio</title>
+</head>
+
+<body>
+    <style>
+        .Quiziz {
+            color: rgb(201, 7, 226);
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        }
+
+        body {
+            background-color: rgb(16, 240, 210);
+        }
+
+        .Nivelmedio {
+            color: blueviolet;
+          font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        }
+        .Perguntas{color: blueviolet;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        
+
+        }
+
+    </style>
+    <center>
+        <p>
+        <h1 class="Quiziz">Quiziz</h1>
+        </p>
+        <h1 class="Nivelmedio">Você esta no nivel dificil!!</h1>
+         <h1 class="Perguntas"> 1-O que é engenharia social em crimes virtuais?</h1>
+        <h1 class="Perguntas">2-or que usar uma VPN pode ajudar na proteção contra crimes virtuais?</h1>
+        <h1 class="Perguntas">3-Qual a diferença entre crime cibernético e crime informático?
+
+
+</body>
+</html>
