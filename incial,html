@@ -13,17 +13,20 @@
 
 }
 
-.Respostas{
+.Respostas{color: blueviolet;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color:blueviolet;
-   }
     
-
+}
+.RespostasNivel{color: blueviolet;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
   </style>
 
 <body>
 
  <center><h1 class="Respostas">Respostas do nivel fácil</h1>
+ <h1 class="RespostasNivel"> Os principais crimes virtuais em redes sociais são o roubo de dados, assédio, golpes financeiros e difamação.</h1>
+ <h1 class="RespostasNivel"> Hackeamento é crime quando alguém acessa sistemas ou dados sem permissão, com intenção de causar danos ou roubar informações.</h1>
+ <h1 class="RespostasNivel">Phishing é quando alguém tenta enganar para roubar informações pessoais, usando mensagens falsas</h1>
 
 </center>
 </body>
